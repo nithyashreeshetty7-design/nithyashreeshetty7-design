@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+👩🏻‍🎓I'm currently student<br>👩🏻‍💻CS student<br>🚀Dream big. Code bigger.<br>♻️Code. Learn. Repeat<br>💻I'm currently learning
 
-<!--
-**nithyashreeshetty7-design/nithyashreeshetty7-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=nithyashreeshetty7-design&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=nithyashreeshetty7-design&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=nithyashreeshetty7-design&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://komarev.com/ghpvc/?username=nithyashreeshetty7-design&icon=0&color=13)](https://visitcount.itsvg.in)
+
+
